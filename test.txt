@@ -1,2 +1,2 @@
-hello
+hello hihi
 안녕하세요 git 수정중입니다.
